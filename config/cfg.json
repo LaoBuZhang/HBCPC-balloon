@@ -1,0 +1,8 @@
+{
+    "client_id": "易联云应用id",
+    "client_secret": "易联云应用密钥",
+    "machine_id": "易联云打印机终端号",
+    "start_time": "2024-05-26 09:00:00",
+    "contest_id": "pta比赛id",
+    "cookie": "pta管理员账号cookie"
+}
