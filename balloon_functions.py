@@ -28,7 +28,6 @@ def out(teamId,teamName,problemId,dict,roomDict):
     else:
         str_str = "赛场："+"测试赛场"+"\n"
     file.write(str_str)
-    roomDict.clear()
     # 座位号
     str_str = "座位号："+teamId+"\n"
     file.write(str_str)
